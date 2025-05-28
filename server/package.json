@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "todo-list-app",
+  "version": "1.0.0",
+  "description": "\"A Basic Todo List App Written with NodeJs and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samichii/todo-list-app.git"
+  },
+  "keywords": [
+    "\"todo\"",
+    "\"list\""
+  ],
+  "author": "Sophia Angel C. Managbanag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samichii/todo-list-app/issues"
+  },
+  "homepage": "https://github.com/samichii/todo-list-app#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
